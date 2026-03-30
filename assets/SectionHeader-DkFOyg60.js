@@ -1,1 +1,0 @@
-import{o as e,c as o,b as s,t as r}from"./index-LNSGgBuB.js";const a={class:"mx-auto py-20"},c={class:"font-bold md:text-xl text-center"},l={__name:"SectionHeader",props:{title:{type:String,required:!0}},setup(t){return(n,i)=>(e(),o("div",a,[s("h2",c,r(t.title),1)]))}};export{l as _};
